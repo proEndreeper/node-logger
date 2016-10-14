@@ -1,0 +1,29 @@
+{
+  "name": "node-logger",
+  "version": "1.0.0",
+  "description": "Logging System based off Oracle's Java Level System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proEndreeper/node-logger.git"
+  },
+  "keywords": [
+    "logging",
+    "logger",
+    "log",
+    "java",
+    "level"
+  ],
+  "author": "ProxEndreeper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proEndreeper/node-logger/issues"
+  },
+  "homepage": "https://github.com/proEndreeper/node-logger#readme",
+  "dependencies": {
+    "cps": "^1.0.2"
+  }
+}
