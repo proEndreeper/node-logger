@@ -1,5 +1,5 @@
 var Logger = require('./index.js'),
-    basicFormat = require('./lib/messages').basic;
+    basicFormat = require('./lib/utilities').format;
 
 var globalLogger = Logger.getGlobal();
 
